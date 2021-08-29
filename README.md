@@ -14,3 +14,10 @@
 
 
 ## Konsekwencje długofalowe
+
+
+---
++ [edit](https://github.com/infiltracja/www/edit/main/README.md)
+```
+https://github.com/infiltracja/www.git
+```
